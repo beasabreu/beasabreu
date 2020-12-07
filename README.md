@@ -1,4 +1,5 @@
 ### Hiya! 🐶
+I am Beatriz, I'm a 22-year old caught in this adventure called programming. I'm currently majoring in Information Systems @ University of São Paulo and I work part-time (since I'm an intern) as a fullstack developer. More stuff to be added here soon when I have more time!
 <!--
 **beasabreu/beasabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
