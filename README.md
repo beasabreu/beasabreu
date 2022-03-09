@@ -1,5 +1,5 @@
 ### Hiya! 🐶
-I am Beatriz, I'm a 22-year old caught in this adventure called programming. I'm currently studying Information Systems @ University of São Paulo and I work part-time (since I'm an intern) as a software engineer. Promise I'll build a cool readme when I feel like I should!
+I am Beatriz, I'm a 22-year old caught in this adventure called programming. I'm currently studying Information Systems @ University of São Paulo and I work as a software engineer, currently playing with Kotlin + Spring Boot. Promise I'll build a cool readme when I feel like I should!
 <!--
 **beasabreu/beasabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
