@@ -1,9 +1,9 @@
 ## Hi! 🐶
 So you bumped into my page, huh! Hello there.
 #### About me
-- Information systems student at USP.
-- Coolest vegan from my street (I'm the only one).
-- Pole dance enthusiast (but I'm a beginner)
+- Information systems student at USP
+- Coolest vegan from my street (I'm the only one 🤓)
+- Pole dance enthusiast (actually a beginner)
 
 #### What I'm doing
 - I work at [Gympass](https://www.gympass.com) as a backend engineer.
@@ -18,7 +18,7 @@ So you bumped into my page, huh! Hello there.
 - vegan recipes
 
 #### Find me!
-- I'm in telegram as @biasadventures.
+- I'm almost everywhere as @biasadventures.
 <!--
 **beasabreu/beasabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
