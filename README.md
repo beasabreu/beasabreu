@@ -16,6 +16,7 @@ So you bumped into my page, huh! Hello there.
 - midwest emo and shoegaze music
 - programming stuff
 - vegan recipes
+- tattoos (especially old school and blackwork)
 
 #### Find me!
 - I'm almost everywhere as @biasadventures.
